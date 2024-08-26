@@ -7,10 +7,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love mathematics and I love animals
 - ✴  Social Media Links:
--         1️⃣Telegram:
--               t.me/Mahyar_Baher
--         2️⃣Linkedin:
--               www.linkedin.com/in/mahyar-baher-0aa2132aa
+- 1️⃣Telegram:
+-     t.me/Mahyar_Baher
+- 2️⃣Linkedin:
+-     www.linkedin.com/in/mahyar-baher-0aa2132aa
 
 <!---
 Mahyar-Baher/Mahyar-Baher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
