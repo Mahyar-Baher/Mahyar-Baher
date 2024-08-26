@@ -7,9 +7,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love mathematics and I love animals
 - ✴  Social Media Links:
--         Telegram:
+-         1️⃣Telegram:
 -               t.me/Mahyar_Baher
--         Linkedin:
+-         2️⃣Linkedin:
 -               www.linkedin.com/in/mahyar-baher-0aa2132aa
 
 <!---
