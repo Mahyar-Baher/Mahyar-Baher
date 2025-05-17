@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Mahyar M.Baher
-- 👀 I'm interested in learning new programming language , new tips and better way to solve problems
-- 🌱 I'm currently learning german, quantum physics and Q#
-- 💞️ I'm looking for cooperation in a place where I can make friends with highly experienced people and learn new things.
-- 📫 How to reach me? U can Email me
-- 📧 E-mail: mahyar.baher@gmail.com
+- 👀 Interests: Chasing "aha!" moments in code, unraveling problems like they’re quantum knots.
+- 🌱 Learning: German (to debate Schrödinger’s cat auf Deutsch), quantum physics (for fun), and Q# (to flirt with qubits).
+- 💞️ Seeking: A squad of wisdom-wielding humans—let’s turn coffee into code and chaos into breakthroughs.
+- 📫 Reach me: mahyar.baher@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love mathematics and I love animals
-- ✴  Social Media Links:
+- ⚡ Fun fact: I’ve mathematically confirmed that cats are non-Newtonian fluids. “Does your pet defy physics?” Spoiler: Mine does. 🐈⬛📐
 -   1️⃣Telegram:
 -       t.me/Mahyar_Baher
 -   2️⃣Linkedin:
