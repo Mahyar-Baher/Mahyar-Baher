@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mahyar M.Baher<br>👀 Interests: Chasing "aha!" moments in code, unraveling problems like they’re quantum knots.<br>🌱 Learning: German (to debate Schrödinger’s cat auf Deutsch), quantum physics (for fun), and Q# (to flirt with qubits).<br>💞️ Seeking: A squad of wisdom-wielding humans—let’s turn coffee into code and chaos into breakthroughs.<br>📫 Reach me: mahyar.baher@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’ve mathematically confirmed that cats are non-Newtonian fluids. “Does your pet defy physics?” Spoiler: Mine does. 🐈⬛📐
+👋 Hi, I’m Mahyar M.Baher<br>👀 Interests: Chasing "aha!" moments in code, unraveling problems like they’re quantum knots.<br>🌱 Learning: German (to debate Schrödinger’s cat auf Deutsch), quantum physics (for fun), and Q# (to flirt with qubits).<br>💞️ Seeking: A squad of wisdom-wielding humans—let’s turn coffee into code and chaos into breakthroughs.<br>📫 Reach me: mahyar.baher@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’ve mathematically confirmed that cats are non-Newtonian fluids. “Does your pet defy physics?” Spoiler: Mine does. 🐈⬛📐<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahyar%20Baher-blue?logo=linkedin)](https://am.linkedin.com/in/mahyar-baher-0aa2132aa)
 
 # 💻 Tech Stack:
